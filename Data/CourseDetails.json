@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "classes":"40",
+    "course_name":"Artificial Inteligence",
+    "hours":"150",
+    "instructor":"MR.John",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "introductory":"Artificial intelligence (AI) is the ability of machines to replicate or enhance human intellect, such as reasoning and learning from experience. Artificial intelligence has been used in computer programs for years, but it is now applied to many other products and services.",
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://aien.nankai.edu.cn/_upload/article/images/f5/2c/b9838b8b49ddab98a0b558d4c73a/a10d89ae-4e0d-401d-a91b-c40bdcae6c31.jpg",
+    "details": "Artificial intelligence (AI) is the ability of machines to replicate or enhance human intellect, such as reasoning and learning from experience. Artificial intelligence has been used in computer programs for years, but it is now applied to many other products and services.",
+    "instructorImg":"https://www.gannett-cdn.com/presto/2021/11/03/NCDT/d4660189-e3a9-4128-b531-930d66911685-20211103_008A_Code_Ninjas_ds.jpg?width=660&height=406&fit=crop&format=pjpg&auto=webp"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "2",
+    "classes":"45",
+    "course_name":"Cyber Security",
+    "hours":"160",
+    "instructor":"MR.Alex",
+    "title": "WelCome To The Cyber Security Course.Let's have a look! What we will learn in this Course?",
+    "introductory":"Cybersecurity is the protection of internet-connected systems such as hardware, software and data from cyberthreats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems.",
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://cdn.xxl.thumbs.canstockphoto.com/password-faceless-hacker-on-a-computer-stock-images_csp46338356.jpg",
+    "details": "Cybersecurity is the protection of internet-connected systems such as hardware, software and data from cyberthreats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems.",
+    "instructorImg":"https://img.freepik.com/free-photo/teacher-brunette-instructor-with-computer-suit-whiteboard-classroom-confident_140725-163241.jpg?w=2000"
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "classes":"52",
+    "course_name":"Web Development",
+    "hours":"155",
+    "instructor":"Jhankar Mahbub",
+    "title": "WelCome To The Web Development Course.Let's have a look! What we will learn in this Course?",
+    "introductory":"Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image": "https://cdn2.vectorstock.com/i/1000x1000/11/16/cartoon-web-design-and-development-card-poster-vector-23581116.jpg",
+    "details": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    "instructorImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4PiXbAdz-vRhaAEEqXWnOw6kEvVBxMjQkCxZt35U&s"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "4",
+    "classes":"60",
+    "course_name":"Data Science",
+    "hours":"152",
+    "instructor":"MR.Meraj",
+    "title": "WelCome To The Data Science Course.Let's have a look! What we will learn in this Course?",
+    "introductory":"Data Science is about data gathering, analysis and decision-making. Data Science is about finding patterns in data, through analysis, and make future predictions. By using Data Science, companies are able to make Better decisions.",
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image": "https://c8.alamy.com/comp/2C4DNBF/finger-touching-tablet-with-web-technology-icons-and-data-science-inscription-web-technology-concept-2C4DNBF.jpg",
+    "details": "Data Science is about data gathering, analysis and decision-making. Data Science is about finding patterns in data, through analysis, and make future predictions. By using Data Science, companies are able to make Better decisions.",
+    "instructorImg":"https://earlycode.net/images/smiling_instructor.png"
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "5",
+    "classes":"55",
+    "course_name":"Computer Network",
+    "hours":"165",
+    "instructor":"MR.Adam",
+    "title": "WelCome To The Computer Network Course.Let's have a look! What we will learn in this Course?",
+    "introductory":"A computer network is a system that connects numerous independent computers in order to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily. A computer network is a collection of two or more computer systems that are linked together.",
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IbzpQyO8hPCpVANxxvbKaq-KftGYaUtaxg&usqp=CAU",
+    "details": "A computer network is a system that connects numerous independent computers in order to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily. A computer network is a collection of two or more computer systems that are linked together.",
+    "instructorImg":"https://media.istockphoto.com/photos/teacher-giving-computer-science-lecture-to-diverse-multiethnic-group-picture-id1363276509?b=1&k=20&m=1363276509&s=170667a&w=0&h=oL7i6a88xFhwrgZC98hlAcEql1G_RYcbZcDeD9R_HoM="
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "classes":"40",
+    "course_name":"Graphics Design",
+    "hours":"130",
+    "instructor":"MR.Raj",
+    "title": "WelCome To The Graphcs Design Course.Let's have a look! What we will learn in this Course?",
+    "introductory":"Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+    
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image": "https://i.pinimg.com/736x/5e/bf/d4/5ebfd47fd1919b03a88e207e3cdbe1c6.jpg",
+    "details": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+    "instructorImg":"https://www.thetechedvocate.org/wp-content/uploads/2020/09/neonbrand-y_6rqStQBYQ-unsplash.jpg"
+  }
+
+]
