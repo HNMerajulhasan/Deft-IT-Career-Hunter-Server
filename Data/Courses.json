@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "course_name": "Artificial intelligence",
+    "classes":"40",
+    "hours":"150",
+    "instructor":"MR.John",
+    "details": "Artificial intelligence (AI) is the ability of machines to replicate or enhance human intellect, such as reasoning and learning from experience. Artificial intelligence has been used in computer programs for years, but it is now applied to many other products and services.",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "image": "https://aien.nankai.edu.cn/_upload/article/images/f5/2c/b9838b8b49ddab98a0b558d4c73a/a10d89ae-4e0d-401d-a91b-c40bdcae6c31.jpg",
+    "instructorImg":"https://www.gannett-cdn.com/presto/2021/11/03/NCDT/d4660189-e3a9-4128-b531-930d66911685-20211103_008A_Code_Ninjas_ds.jpg?width=660&height=406&fit=crop&format=pjpg&auto=webp"
+  },
+  {
+    "id": "2",
+    "course_name": "Cyber Security",
+    "classes":"45",
+    "hours":"160",
+    "details": "Cybersecurity is the protection of internet-connected systems such as hardware, software and data from cyberthreats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems.",
+    "instructor":"MR.Alex",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "image": "https://cdn.xxl.thumbs.canstockphoto.com/password-faceless-hacker-on-a-computer-stock-images_csp46338356.jpg",
+    "instructorImg":""
+  },
+  {
+    "id": "3",
+    "course_name": "Web Development",
+    "classes":"52",
+    "hours":"155",
+    "instructor":"Jhankar Mahbub",
+    "details": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "image": "https://cdn2.vectorstock.com/i/1000x1000/11/16/cartoon-web-design-and-development-card-poster-vector-23581116.jpg",
+    "instructorImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4PiXbAdz-vRhaAEEqXWnOw6kEvVBxMjQkCxZt35U&s"
+  },
+  {
+    "id": "4",
+    "course_name": "Data Science",
+    "classes":"60",
+    "hours":"152",
+    "instructor":"MR.Meraj",
+    "details": "Data Science is about data gathering, analysis and decision-making. Data Science is about finding patterns in data, through analysis, and make future predictions. By using Data Science, companies are able to make Better decisions.",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "image": "https://c8.alamy.com/comp/2C4DNBF/finger-touching-tablet-with-web-technology-icons-and-data-science-inscription-web-technology-concept-2C4DNBF.jpg",
+    "instructorImg":"https://earlycode.net/images/smiling_instructor.png"
+  },
+  {
+    "id": "5",
+    "course_name": "Computer Netwok",
+    "classes":"55",
+    "hours":"165",
+    "instructor":"MR.Adam",
+    "details": "A computer network is a system that connects numerous independent computers in order to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily. A computer network is a collection of two or more computer systems that are linked together.",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IbzpQyO8hPCpVANxxvbKaq-KftGYaUtaxg&usqp=CAU",
+    "instructorImg":"https://media.istockphoto.com/photos/teacher-giving-computer-science-lecture-to-diverse-multiethnic-group-picture-id1363276509?b=1&k=20&m=1363276509&s=170667a&w=0&h=oL7i6a88xFhwrgZC98hlAcEql1G_RYcbZcDeD9R_HoM="
+  },
+  {
+    "id": "6",
+    "course_name": "Graphics Design",
+    "classes":"40",
+    "hours":"130",
+    "instructor":"MR.Raj",
+    "details": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+    "title": "WelCome To The Artificial Inteligence Course.Let's have a look! What we will learn in this Course?",
+    "image": "https://i.pinimg.com/736x/5e/bf/d4/5ebfd47fd1919b03a88e207e3cdbe1c6.jpg",
+    "instructorImg":"https://www.thetechedvocate.org/wp-content/uploads/2020/09/neonbrand-y_6rqStQBYQ-unsplash.jpg"
+  }
+]
